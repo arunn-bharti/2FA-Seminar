@@ -7,6 +7,6 @@ Graduation final-year seminar on Two-Factor Authentication, covering its working
 - Seminar Documentation (DOCX)
 - Seminar Presentation (PPTX)
 
-**Presented by:** Arun S. Bharti  
+**Presented by:** Arun Bharti  
 **College:** Bhagwan Mahavir College of Computer Application  
 **Academic Year:** 2024–25
